@@ -31,6 +31,7 @@ In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
 3. Data cleaning and formatting.
+4. Data Modeling.
 
 ### Exploratory Data Analysis
 
@@ -68,6 +69,5 @@ I had to remove all zero values from budget and revenue columns because they wou
 
 ### References
 
-1. SQL for business by Werty.
-2. [kaggle](https//:kaggle.com)
+Maven Analytics
    
