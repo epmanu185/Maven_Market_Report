@@ -10,8 +10,7 @@
 6. [Data analysis](#Data-analysis)
 7. [Results / Findings](#Results-/-Findings)
 8. [Recommendations](#Recommendations)
-9. [Limitations](#Limitations)
-10. [References](#References)
+9. [References](#References)
 
 ### Project overview
 
@@ -38,7 +37,8 @@ In the initial data preparation phase, we performed the following tasks:
 EDA involved exploring the sales data to answer key questions, such as:
 - What is the overall sales trend?
 - Which products are top sellers?
-- What are the peak sales periods?
+- Which products brought the highest profit?
+- which product has the highest return rate?
 
 ### Data analysis
 
@@ -52,20 +52,19 @@ WHERE sales_amount > 100;
 ### Results / Findings
 
 The analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+
+- Portland hits 1,000 sales in December.
+- Highest profit earned item from overall sales is Hermanos Green Pepper.
+- Highest profit earned product in Canada is Horatio Frosted Cookies﻿.
+- Highest profit earned product in Mexico is Fort West BBQ Potato Chips.
+- Highest profit earned item in the USA is Hermanos Green Pepper.
+- Highest return rate from overall sales is for Hilltop Silky Smooth Hair Conditioner.
 
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-• Invest in marketing and promotions during peak sales seasons to maximize revenue.
-• Focus on expanding and promoting products in Category A.
-• Implement a customer segmentation strategy to target high-LTV customers effectively.
-
-### Limitations
-
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue. 
+• Invest in the marketing of 'Hermanos Green Pepper' since it is the highest profit earner.
+• Focus on expanding the issues related to the product 'Hilltop Silky Smooth Hair Conditioner' as it has the highest return rate.
 
 ### References
 
