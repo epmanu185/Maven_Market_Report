@@ -22,7 +22,8 @@ Sales Data: The primary dataset used for this analysis is the "sales_data.csv" f
 
 ### Tools used
 
-- PowerBI - For data cleaning, data analysing, creating report.
+- PowerBI - For data cleaning, data modeling, data analysing & creating report.
+- PowerBI (DAX).
 
 ### Data cleaning / preparation
 
@@ -42,12 +43,21 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Data analysis
 
-Include some interesting codes or features worked with
+- Data Model screenshot
 
-``` SQL
-SELECT * FROM sales
-WHERE sales_amount > 100;
-```
+  
+  ![Data Model screenshot](https://github.com/epmanu185/Maven_Market_Report/assets/144469882/b324c2a4-f231-4308-b1a5-8da17aa1f246)
+
+- Measure table screenshot
+
+
+  ![Measure table screenshot](https://github.com/epmanu185/Maven_Market_Report/assets/144469882/cb001a29-2f1d-4864-99d8-c043f7563ec2)
+
+- Dashboard screenshot
+
+  
+  ![Dashboard screenshot](https://github.com/epmanu185/Maven_Market_Report/assets/144469882/ae333b11-95a8-4213-a216-da81f8c8404a)
+
 
 ### Results / Findings
 
@@ -63,8 +73,9 @@ The analysis results are summarized as follows:
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-• Invest in the marketing of 'Hermanos Green Pepper' since it is the highest profit earner.
-• Focus on expanding the issues related to the product 'Hilltop Silky Smooth Hair Conditioner' as it has the highest return rate.
+
+- Invest in the marketing of 'Hermanos Green Pepper' since it is the highest profit earner.
+- Focus on expanding the issues related to the product 'Hilltop Silky Smooth Hair Conditioner' as it has the highest return rate.
 
 ### References
 
